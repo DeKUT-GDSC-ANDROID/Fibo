@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.emmutua.fibonacciapp'
+    namespace 'com.akirachix.fibonacciseries'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.emmutua.fibonacciapp"
+        applicationId "com.akirachix.fibonacciseries"
         minSdk 24
         targetSdk 34
         versionCode 1

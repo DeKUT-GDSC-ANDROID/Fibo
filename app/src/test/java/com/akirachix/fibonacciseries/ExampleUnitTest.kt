@@ -1,4 +1,4 @@
-package com.emmutua.fibonacciapp
+package com.akirachix.fibonacciseries
 
 import org.junit.Test
 
